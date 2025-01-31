@@ -30,7 +30,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img https://ibb.co/Mk3Y1Hz1
+<img <img width="278" alt="Screenshot 2025-01-31 at 08 33 43" src="https://github.com/user-attachments/assets/437470da-9ae0-47c4-844f-42a8a75c6fcf" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
