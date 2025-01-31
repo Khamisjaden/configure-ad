@@ -3,6 +3,7 @@
 <img width="278" alt="Screenshot 2025-01-31 at 08 33 43" src="https://github.com/user-attachments/assets/6815dc53-df90-470b-8a97-4c32b55079b5" />
 
 <h1> Configuring Active Directory within Azure VMs
+  
 This tutorial outlines the Active Directory within Azure VMs. <br />
 
 
