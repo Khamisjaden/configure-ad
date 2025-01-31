@@ -4,10 +4,12 @@
 
 <h1> Configuring Active Directory within Azure VMs
   
-This tutorial outlines the Active Directory within Azure VMs. <br />
 
 
-<h2>Video Demonstration</h2>
+
+<h2>This tutorial outlines the Active Directory within Azure VMs.
+
+
 
 
 
