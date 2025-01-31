@@ -34,7 +34,8 @@
 <h2>Installation Steps</h2>
 
 <p>
-<img 
+<img <img width="516" alt="Screenshot 2025-01-27 at 11 00 19" src="https://github.com/user-attachments/assets/0dbae7f8-a0fd-49e6-bad0-2066d72b98b4" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
